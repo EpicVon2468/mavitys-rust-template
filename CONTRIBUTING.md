@@ -1,12 +1,12 @@
 # Contributing Guidelines
 
-This document outlines the expectations for any contributions.  It is recommended you read this first as to avoid later confusion.
+This document outlines the expectations for any contributions to {{project-name}}.  It is recommended you read this first as to avoid later confusion.
 
 ## General
 
 ### Use of "Artificial Intelligence" ("AI") / Large Language Models (LLMs)
 
-> TL;DR: "AI" / LLMs are strictly prohibited from being used in contributions to this project.
+> TL;DR: "Artificial Intelligence" ("AI") / Large Language Models (LLMs) are strictly prohibited from being used in contributions to {{project-name}}.
 
 Contributions cannot be made with the use of "Artificial Intelligence" ("AI") / Large Language Models (LLMs).<br>
 You may not use "AI" / LLMs for discussions, commits, reviewing or creating code, or any contributions whatsoever (even those not listed explicitly here).<br>

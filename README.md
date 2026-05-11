@@ -12,7 +12,7 @@ MSRV: N/A (nightly, see: [`rust-toolchain.toml`](https://github.com/EpicVon2468/
 
 ## Use of "Artificial Intelligence" ("AI") / Large Language Models (LLMs)
 
-"Artificial Intelligence" ("AI") / LLMs are strictly prohibited from being used in contributions to this project.
+"Artificial Intelligence" ("AI") / LLMs are strictly prohibited from being used in contributions to {{project-name}}.
 
 [Further details are available here.](https://github.com/EpicVon2468/{{project-name}}/blob/master/CONTRIBUTING.md#use-of-artificial-intelligence-ai--large-language-models-llms)
 
