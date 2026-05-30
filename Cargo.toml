@@ -5,7 +5,8 @@ authors = [
 	"Mavity The Madity",
 ]
 edition = "2024"
-rust-version = "1.97.0"
+rust-version = "1.98.0"
+description = "Foo bar baz"
 homepage = "https://github.com/EpicVon2468/{{project-name}}/"
 repository = "https://github.com/EpicVon2468/{{project-name}}/"
 license = "MIT OR Apache-2.0"
